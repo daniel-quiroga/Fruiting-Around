@@ -15,3 +15,7 @@ https://github.com/daniel-quiroga/Fruiting-Around/issues/1#issue-802251566
 
 **Fruiting Around**: Fruiting Around enables couples in long distance relationships to teach creative fruit sculpting through digital and tangible traces
   
+**How to build it**
+1 Glue two ice cream popsicles together 20X
+2 Use the the posicles to secure them to the servos with a cable strap
+3 Create an arm with the servos and popsicles like this:
