@@ -2,9 +2,7 @@
 User Interface Design Project 2021 
 This is the github page fro Fruiting Around, check the videos to see how to make your own Fruiting Around prototype:
 
-**Video 1 Customer Journey:** https://youtu.be/jHmSti7BEzM 
-
-**Video 2 Technical**
+**Video 1 Customer Journey & Technical description:** https://youtu.be/jHmSti7BEzM 
 
 **Fruiting Around**
 https://github.com/daniel-quiroga/Fruiting-Around/issues/1#issue-802251566
