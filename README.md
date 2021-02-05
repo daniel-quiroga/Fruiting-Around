@@ -39,4 +39,10 @@ https://github.com/daniel-quiroga/Fruiting-Around/issues/1#issue-802251566
 
 11 Cover the base with a fruit collage and the fruit scale(see video)
 
-12 Make cardboard bases like this:
+12 Make cardboard bases like this:https://github.com/daniel-quiroga/Fruiting-Around/issues/3#issue-802272604
+
+13 Place the prototype on the base 
+
+14 Upload the Arduino Code to Arduino Uno
+
+15 Use the Figma mirror app to see the app on the phone
