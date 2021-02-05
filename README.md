@@ -49,3 +49,13 @@ Before trying to build the prototype, check the Materials list file, and watch b
 14 Upload the Arduino Code to Arduino Uno
 
 15 Use the Figma mirror app to see the app on the phone
+
+*Running the wizard of Oz Prototype*
+
+1 Download the figma mirror app
+
+2 Open the Figma link in your phone, designed for iPhone X
+
+3 Walk through the process as shown in the video (all buttons on the Figma app work)
+
+4 Press the Arduino button to start the traces, be careful!
