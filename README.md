@@ -18,6 +18,8 @@ https://github.com/daniel-quiroga/Fruiting-Around/issues/1#issue-802251566
   
 **How to build it**
 
+Before trying to build the prototype, check the Materials list file, and watch both videos.
+
 1 Glue two ice cream popsicles together 20X
 
 2 Use the the posicles to secure them to the servos with a cable strap
