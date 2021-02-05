@@ -35,4 +35,8 @@ https://github.com/daniel-quiroga/Fruiting-Around/issues/1#issue-802251566
 
 9 Paint the prototype white
 
-10 Create a a cardboard base 20cm x 50 cm
+10 Create a a cardboard base 20cm x 50cm
+
+11 Cover the base with a fruit collage and the fruit scale(see video)
+
+12 Make cardboard bases like this:
