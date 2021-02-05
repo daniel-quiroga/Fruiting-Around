@@ -50,7 +50,7 @@ Before trying to build the prototype, check the Materials list file, and watch b
 
 15 Use the Figma mirror app to see the app on the phone
 
-*Running the wizard of Oz Prototype*
+**Running the wizard of Oz Prototype**
 
 1 Download the figma mirror app
 
